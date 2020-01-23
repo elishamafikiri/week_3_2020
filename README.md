@@ -5,7 +5,7 @@
 1054 Week 3 Class Build
 
 ## Insallation 
-There is no installation proccess for this repo. Simply pul down and start working!
+There is no installation proccess for this repo. Simply pull down and start working!
 
 ## MIT Licence 
 MIT Licence
